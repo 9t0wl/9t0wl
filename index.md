@@ -98,6 +98,28 @@ I carefully examined the system for misconfigurations, vulnerable services, and 
 
 Pickle Rick was more than just a fun pop-culture reference; it provided a valuable learning experience in the world of Windows privilege escalation. I gained hands-on experience with essential tools like WinPEAS and PowerUp, and I learned how to identify and exploit common misconfigurations in Windows environments.  This machine reminded me that even seemingly secure systems can have hidden vulnerabilities, waiting to be discovered by a persistent and resourceful attacker.
 
+#   Crack the Hash: Mastering the Art of Password Cracking
+
+**Introduction**
+
+My recent foray into the "Crack the Hash" room on TryHackMe was a thrilling experience. I delved into the world of password cracking, learning how to utilize powerful tools like John the Ripper and Hashcat to uncover hidden secrets.
+
+**Hashing and Cracking Fundamentals**
+
+The room started by introducing the fundamental concepts of hashing and password cracking.  I gained a deeper understanding of how different hashing algorithms work and the various techniques used to crack them. This knowledge laid a solid foundation for the challenges that lay ahead.
+
+**Cracking with John the Ripper**
+
+John the Ripper, a classic password cracking tool, became my first weapon of choice. I learned how to use its various modes and options to crack different hash types, including MD5 and SHA-1.  Experimenting with wordlists and rule sets, I witnessed the power of brute-force attacks and dictionary attacks firsthand.
+
+**Unleashing the Power of Hashcat**
+
+Next, I explored the advanced capabilities of Hashcat.  This powerful tool allowed me to crack even more complex hashes, including SHA-512. I learned about different attack modes, optimization techniques, and the importance of utilizing powerful hardware for efficient cracking.
+
+**Lessons Learned**
+
+The "Crack the Hash" room provided a hands-on learning experience in the art of password cracking.  I gained proficiency in using essential tools like John the Ripper and Hashcat, and I developed a deeper understanding of the importance of strong passwords and secure password storage practices.
+
 ## Header 2
 
 > This is a blockquote following a header.
