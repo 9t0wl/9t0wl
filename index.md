@@ -138,7 +138,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](hBt_L6.gif)
 
 ### Large image
 
