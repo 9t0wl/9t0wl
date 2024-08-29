@@ -106,11 +106,9 @@ end
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
+<dd>Herry Hernandez</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>California</dd>
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
