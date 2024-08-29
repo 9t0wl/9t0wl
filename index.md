@@ -16,65 +16,65 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 #   PermX: My First Steps into Web Exploitation and Privilege Escalation
 
-Introduction
+**Introduction**
 
 My journey into the world of ethical hacking recently led me to tackle the PermX machine on Hack The Box.  Labeled as "Easy," I was eager to test my skills and see what I could learn. Little did I know, this machine would provide a solid foundation in essential web exploitation and privilege escalation techniques.
 
-Reconnaissance and Enumeration
+**Reconnaissance and Enumeration**
 
 As with any good hack, I started with reconnaissance.  Firing up Nmap, I scanned the machine to identify open ports and services. I also used Gobuster to brute-force directories, hoping to uncover any hidden gems. This phase reminded me of the importance of thoroughness; even seemingly insignificant details can lead to a breakthrough.
 
-Exploitation
+**Exploitation**
 
 The real excitement began when I discovered a vulnerability in a web application running on the machine. Careful analysis revealed a weakness in the file upload functionality.  With a bit of tinkering and the help of Burp Suite, I was able to craft a malicious file and gain initial access to the system. This was a thrilling moment, a tangible reminder of the impact web application vulnerabilities can have.
 
-Privilege Escalation
+**Privilege Escalation**
 
 Gaining a foothold was just the first step.  The next challenge was to elevate my privileges to root. This involved meticulously examining the system for misconfigurations or vulnerable services.  After some digging, I discovered a SUID binary that could be exploited. With a carefully crafted exploit, I was able to gain the coveted root access. This phase taught me the importance of persistence and creative thinking when it comes to privilege escalation.
 
-Lessons Learned
+**Lessons Learned**
 
 PermX, though considered "Easy," provided a wealth of learning opportunities.  I gained hands-on experience with essential tools like Nmap and Burp Suite, and I honed my skills in web application exploitation and privilege escalation. This machine reinforced the importance of thoroughness, persistence, and creative problem-solving in the world of ethical hacking.
 
 #   Jerry: Unveiling the Power of Apache Tomcat Vulnerabilities
 
-Introduction
+**Introduction**
 
 My encounter with the Jerry machine on Hack The Box marked my first foray into the world of Apache Tomcat vulnerabilities.  This "Easy" rated machine proved to be an excellent introduction to the potential security risks associated with this popular web server.
 
-Web Server Enumeration
+**Web Server Enumeration**
 
 The initial phase involved identifying the web server and its version. Using Nmap and some clever banner grabbing techniques, I was able to confirm that Apache Tomcat was running on the target machine.  This step highlighted the importance of gathering information about the target environment before launching an attack.
 
-Exploiting Tomcat Vulnerabilities
+**Exploiting Tomcat Vulnerabilities**
 
 Armed with the knowledge of the web server, I delved into researching known vulnerabilities in Apache Tomcat.  I discovered a specific CVE that seemed promising.  With the help of Metasploit, I was able to craft an exploit and gain initial access to the system. This experience underscored the critical need to stay up-to-date on the latest vulnerabilities and their potential impact.
 
-Web Shell Deployment & Privilege Escalation
+**Web Shell Deployment & Privilege Escalation**
 
 Once I had a foothold, I deployed a web shell to maintain access and further explore the system.  From there, it was a matter of identifying and exploiting misconfigurations or vulnerable services to escalate my privileges to root. This machine reinforced the importance of post-exploitation techniques and the continuous pursuit of higher privileges.
 
-Lessons Learned
+**Lessons Learned**
 
 Jerry provided a valuable introduction to the world of Apache Tomcat security. I learned how to identify and exploit vulnerabilities in this widely used web server, and I gained a deeper appreciation for the importance of staying informed about the latest security threats.
 
 #   Greenhorn: My Initiation into the World of Linux Privilege Escalation
 
-Introduction
+**Introduction**
 
 As I continued my journey through Hack The Box, I encountered the Greenhorn machine. Aptly named, this "Easy" rated machine served as my initiation into the fascinating world of Linux privilege escalation.
 
-Enumeration and Foothold
+**Enumeration and Foothold**
 
 The initial phase involved the usual reconnaissance. With Nmap as my trusty companion, I mapped out the machine's open ports and services. I also meticulously analyzed the web server, looking for any clues or potential vulnerabilities.  This careful probing, aided by tools like Dirb or Nikto, led me to a weakness in the server configuration, allowing me to gain an initial foothold on the system.
 
-Privilege Escalation: The Real Challenge
+**Privilege Escalation: The Real Challenge**
 
 Gaining initial access was merely the first step. The real challenge lay in escalating my privileges to root. This involved carefully examining the system for any misconfigurations, vulnerable services, or exploitable SUID binaries. I utilized LinEnum to enumerate potential privilege escalation vectors. Greenhorn truly put my Linux knowledge to the test, forcing me to dig deep into file permissions, system configurations, and potential privilege escalation paths.
 
 After some persistence and careful analysis, I discovered a subtle misconfiguration that allowed me to elevate my privileges and seize control of the system. This breakthrough highlighted the importance of attention to detail and understanding the nuances of the Linux operating system.
 
-Lessons Learned
+**Lessons Learned**
 
 Greenhorn, while relatively straightforward, provided an invaluable learning experience. I gained a deeper understanding of Linux privilege escalation techniques and the importance of thorough system enumeration. This machine also reinforced the value of persistence and the satisfaction of overcoming challenges. It solidified my understanding of essential tools like Nmap, and introduced me to powerful enumeration tools like LinEnum.
 
