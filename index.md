@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-![Spidertocat]()
+![Spidertocat](spidertocat.resized.png)
 # 9t0wl Hack's;
 
 
