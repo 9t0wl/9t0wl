@@ -78,6 +78,26 @@ After some persistence and careful analysis, I discovered a subtle misconfigurat
 
 Greenhorn, while relatively straightforward, provided an invaluable learning experience. I gained a deeper understanding of Linux privilege escalation techniques and the importance of thorough system enumeration. This machine also reinforced the value of persistence and the satisfaction of overcoming challenges. It solidified my understanding of essential tools like Nmap, and introduced me to powerful enumeration tools like LinEnum.
 
+#   Pickle Rick: Wubba Lubba Dub Dub into Windows Privilege Escalation
+
+**Introduction**
+
+My latest adventure on TryHackMe took me into the quirky world of Pickle Rick, a machine designed to teach us the art of Windows privilege escalation.  With its "Easy" rating, I was ready to dive in and see what challenges awaited.
+
+**Enumeration and Initial Access**
+
+As always, I started with thorough enumeration using trusty tools like Nmap.  Port scanning revealed several open ports, including the ever-present Remote Desktop Protocol (RDP). A bit of further probing led me to discover weak credentials for a user account, granting me my initial access to the machine.
+
+**Privilege Escalation: Getting Schwifty**
+
+Gaining a foothold was just the beginning. The true test lay in escalating my privileges to the coveted SYSTEM level.  Pickle Rick threw some interesting curveballs my way, forcing me to explore various privilege escalation techniques specific to Windows environments.
+
+I carefully examined the system for misconfigurations, vulnerable services, and potential exploit opportunities. Using tools like WinPEAS and PowerUp, I meticulously searched for any weaknesses that I could leverage. Eventually, I stumbled upon a juicy kernel exploit that allowed me to elevate my privileges and achieve SYSTEM access.
+
+**Lessons Learned**
+
+Pickle Rick was more than just a fun pop-culture reference; it provided a valuable learning experience in the world of Windows privilege escalation. I gained hands-on experience with essential tools like WinPEAS and PowerUp, and I learned how to identify and exploit common misconfigurations in Windows environments.  This machine reminded me that even seemingly secure systems can have hidden vulnerabilities, waiting to be discovered by a persistent and resourceful attacker.
+
 ## Header 2
 
 > This is a blockquote following a header.
