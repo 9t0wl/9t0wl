@@ -120,6 +120,48 @@ Next, I explored the advanced capabilities of Hashcat.  This powerful tool allow
 
 The "Crack the Hash" room provided a hands-on learning experience in the art of password cracking.  I gained proficiency in using essential tools like John the Ripper and Hashcat, and I developed a deeper understanding of the importance of strong passwords and secure password storage practices.
 
+#   C4ptur3-th3-fl4g: Mastering Web Exploitation and File Inclusion
+
+**Introduction**
+
+My latest conquest on TryHackMe was the "C4ptur3-th3-fl4g" machine, an engaging challenge that put my web exploitation skills to the test. This machine focused on a critical vulnerability: file inclusion, and it provided a valuable lesson in the importance of securing web applications.
+
+**Enumeration and Discovery**
+
+As always, I began with thorough reconnaissance.  Using Nmap, I scanned the machine to identify open ports and services.  I also carefully analyzed the web application, looking for any clues or potential vulnerabilities.
+
+**Exploiting File Inclusion**
+
+The breakthrough came when I discovered a file inclusion vulnerability in the web application. This vulnerability allowed me to manipulate file paths and potentially access sensitive information or execute malicious code.
+
+I leveraged tools like Burp Suite to craft payloads and experiment with different file inclusion techniques.  Through careful exploitation, I was able to gain access to critical system files and ultimately capture the flag.
+
+**Lessons Learned**
+
+The "C4ptur3-th3-fl4g" machine taught me the importance of securing web applications against file inclusion vulnerabilities.  I learned how to identify and exploit these weaknesses, and I gained a deeper understanding of the potential impact they can have on a system's security.
+
+#   Cap: Exploiting Web Misconfigurations and Vulnerable Services
+
+**Introduction**
+
+My latest Hack The Box adventure led me to the "Cap" machine, a challenge that highlighted the importance of securing web servers and services. This machine presented a combination of web exploitation and privilege escalation techniques, providing a valuable learning experience.
+
+**Enumeration and Initial Foothold**
+
+As always, I began with careful enumeration. Using Nmap, I scanned the machine to identify open ports and services. I also meticulously analyzed the web server, looking for any misconfigurations or vulnerabilities.
+
+My efforts paid off when I discovered a misconfiguration in the web server that allowed directory traversal. I leveraged this vulnerability to access sensitive files and gain initial access to the system.
+
+**Privilege Escalation: Exploiting a Vulnerable Service**
+
+Once inside, I focused on escalating my privileges to root. I diligently enumerated the system, looking for any potential weaknesses. After some digging, I identified a vulnerable service running with elevated privileges.
+
+By exploiting this service, I was able to execute code as root and capture the flag. This machine taught me the importance of not only securing web applications but also ensuring that all services running on a system are properly configured and patched.
+
+**Lessons Learned**
+
+The "Cap" machine provided a valuable lesson in the risks associated with misconfigured web servers and vulnerable services.  I learned how to identify and exploit these weaknesses, and I gained a deeper appreciation for the importance of comprehensive system security.
+
 ## Header 2
 
 > This is a blockquote following a header.
