@@ -13,7 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Header 1
 # 9t0wl Hacks
 
-  PermX: My First Steps into Web Exploitation and Privilege Escalation
+#  PermX: My First Steps into Web Exploitation and Privilege Escalation
 
 Introduction
 
@@ -35,7 +35,7 @@ Lessons Learned
 
 PermX, though considered "Easy," provided a wealth of learning opportunities.  I gained hands-on experience with essential tools like Nmap and Burp Suite, and I honed my skills in web application exploitation and privilege escalation. This machine reinforced the importance of thoroughness, persistence, and creative problem-solving in the world of ethical hacking.
 
-  Jerry: Unveiling the Power of Apache Tomcat Vulnerabilities
+#  Jerry: Unveiling the Power of Apache Tomcat Vulnerabilities
 
 Introduction
 
