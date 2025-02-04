@@ -12,7 +12,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ![Spidertocat](inspectocat.resized.jpg)
 
-# Herry Hernandez's Cybersecurity & Development Portfolio;
+# Herry Hernandez's Cybersecurity & Development Portfolio
+[Go to Web Development Section](#web-development-section)
+
 Welcome to my portfolio! Here, you'll find detailed write-ups of my projects in cybersecurity, ethical hacking, and web development. This portfolio showcases my journey through platforms like Hack The Box and TryHackMe, covering various exploits, vulnerabilities, and privilege escalation techniques.  
 
 ##  BoardLight: Web Exploitation and Privilege Escalation  
@@ -172,6 +174,7 @@ By exploiting this service, I was able to execute code as root and capture the f
 The "Cap" machine provided a valuable lesson in the risks associated with misconfigured web servers and vulnerable services.  I learned how to identify and exploit these weaknesses, and I gained a deeper appreciation for the importance of comprehensive system security.
 
 # Web Development Projects & Learning Journey
+<a id="web-development-section"></a>
 
 I have a growing understanding of HTML, CSS, and JavaScript, focusing on both front-end development and responsive design. Through hands-on exercises and projects, I’ve implemented key concepts, such as:
 
