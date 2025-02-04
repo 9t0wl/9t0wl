@@ -11,8 +11,8 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 ![Spidertocat](inspectocat.resized.jpg)
-# 9t0wl Hack's;
-
+# Herry Hernandez's Cybersecurity & Development Portfolio;
+Welcome to my portfolio! Here, you'll find detailed write-ups of my projects in cybersecurity, ethical hacking, and web development. This portfolio showcases my journey through platforms like Hack The Box and TryHackMe, covering various exploits, vulnerabilities, and privilege escalation techniques.  
 
 #   PermX: My First Steps into Web Exploitation and Privilege Escalation
 
