@@ -192,10 +192,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-### Small image
 
 ![Octocat](hBt_L6.gif)
 
-### Large image
-
-![Branching]('DALL·E 2024-08-28 11.36.40 bugbounty.jpg')
+![Branching](bugbounty.jpg)
