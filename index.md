@@ -5,7 +5,7 @@
 
 Welcome to my portfolio! Here, you'll find detailed write-ups of my projects in cybersecurity, ethical hacking, and web development. This portfolio showcases my journey through platforms like Hack The Box and TryHackMe, covering various exploits, vulnerabilities, and privilege escalation techniques.  
 
-##  BoardLight: Web Exploitation and Privilege Escalation  
+###  BoardLight: Web Exploitation and Privilege Escalation  
 
 **Summary:** Exploited a vulnerable CRM system to gain access and escalated privileges through a misconfigured SUID binary.  
 **Tools:** Nmap, LinPEAS, Burp Suite, ffuf  
@@ -13,7 +13,7 @@ Welcome to my portfolio! Here, you'll find detailed write-ups of my projects in 
 [Read Full Project Write-up](https://medium.com/@9t0wl/a-thrilling-ride-through-boardlight-1817eeffe9a0)  
 
 
-## PermX: My First Steps into Web Exploitation and Privilege Escalation
+### PermX: My First Steps into Web Exploitation and Privilege Escalation
 
 **Introduction**
 
@@ -35,7 +35,7 @@ Gaining a foothold was just the first step.  The next challenge was to elevate m
 
 PermX, though considered "Easy," provided a wealth of learning opportunities.  I gained hands-on experience with essential tools like Nmap and Burp Suite, and I honed my skills in web application exploitation and privilege escalation. This machine reinforced the importance of thoroughness, persistence, and creative problem-solving in the world of ethical hacking.
 
-#   Jerry: Unveiling the Power of Apache Tomcat Vulnerabilities
+### Jerry: Unveiling the Power of Apache Tomcat Vulnerabilities
 
 **Introduction**
 
@@ -57,7 +57,7 @@ Once I had a foothold, I deployed a web shell to maintain access and further exp
 
 Jerry provided a valuable introduction to the world of Apache Tomcat security. I learned how to identify and exploit vulnerabilities in this widely used web server, and I gained a deeper appreciation for the importance of staying informed about the latest security threats.
 
-#   Greenhorn: My Initiation into the World of Linux Privilege Escalation
+### Greenhorn: My Initiation into the World of Linux Privilege Escalation
 
 **Introduction**
 
@@ -77,7 +77,7 @@ After some persistence and careful analysis, I discovered a subtle misconfigurat
 
 Greenhorn, while relatively straightforward, provided an invaluable learning experience. I gained a deeper understanding of Linux privilege escalation techniques and the importance of thorough system enumeration. This machine also reinforced the value of persistence and the satisfaction of overcoming challenges. It solidified my understanding of essential tools like Nmap, and introduced me to powerful enumeration tools like LinEnum.
 
-#   Pickle Rick: Wubba Lubba Dub Dub into Windows Privilege Escalation
+### Pickle Rick: Wubba Lubba Dub Dub into Windows Privilege Escalation
 
 **Introduction**
 
@@ -97,7 +97,7 @@ I carefully examined the system for misconfigurations, vulnerable services, and 
 
 Pickle Rick was more than just a fun pop-culture reference; it provided a valuable learning experience in the world of Windows privilege escalation. I gained hands-on experience with essential tools like WinPEAS and PowerUp, and I learned how to identify and exploit common misconfigurations in Windows environments.  This machine reminded me that even seemingly secure systems can have hidden vulnerabilities, waiting to be discovered by a persistent and resourceful attacker.
 
-#   Crack the Hash: Mastering the Art of Password Cracking
+### Crack the Hash: Mastering the Art of Password Cracking
 
 **Introduction**
 
@@ -119,7 +119,7 @@ Next, I explored the advanced capabilities of Hashcat.  This powerful tool allow
 
 The "Crack the Hash" room provided a hands-on learning experience in the art of password cracking.  I gained proficiency in using essential tools like John the Ripper and Hashcat, and I developed a deeper understanding of the importance of strong passwords and secure password storage practices.
 
-#   C4ptur3-th3-fl4g: Mastering Web Exploitation and File Inclusion
+### C4ptur3-th3-fl4g: Mastering Web Exploitation and File Inclusion
 
 **Introduction**
 
@@ -139,7 +139,7 @@ I leveraged tools like Burp Suite to craft payloads and experiment with differen
 
 The "C4ptur3-th3-fl4g" machine taught me the importance of securing web applications against file inclusion vulnerabilities.  I learned how to identify and exploit these weaknesses, and I gained a deeper understanding of the potential impact they can have on a system's security.
 
-#   Cap: Exploiting Web Misconfigurations and Vulnerable Services
+### Cap: Exploiting Web Misconfigurations and Vulnerable Services
 
 **Introduction**
 
