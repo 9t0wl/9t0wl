@@ -171,11 +171,18 @@ By exploiting this service, I was able to execute code as root and capture the f
 
 The "Cap" machine provided a valuable lesson in the risks associated with misconfigured web servers and vulnerable services.  I learned how to identify and exploit these weaknesses, and I gained a deeper appreciation for the importance of comprehensive system security.
 
-## Header 2
+## Web Development Projects & Learning Journey
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+I have a growing understanding of HTML, CSS, and JavaScript, focusing on both front-end development and responsive design. Through hands-on exercises and projects, I’ve implemented key concepts, such as:
+
+    Creating structured layouts with semantic HTML5 elements like <header>, <section>, and <article>.
+    Applying CSS styling for visual appeal, including properties like margin, padding, position, and flexbox for responsive page designs.
+    Developing interactive elements using JavaScript functions, DOM manipulation, and event handling.
+    Experimenting with utility-first frameworks (e.g., Bootstrap and Tailwind CSS) to quickly prototype and enhance designs.
+    Gaining insights into web security best practices, like preventing XSS and CSRF, by learning from both development and security perspectives.
+
+These experiences have sharpened my ability to create functional, visually appealing, and secure web pages. I'm continuing to deepen my knowledge by building projects and exploring advanced topics, such as client-server interactions and asynchronous JavaScript (AJAX).
+
 
 ### Header 3
 
