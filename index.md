@@ -11,8 +11,17 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 ![Spidertocat](inspectocat.resized.jpg)
+
 # Herry Hernandez's Cybersecurity & Development Portfolio;
 Welcome to my portfolio! Here, you'll find detailed write-ups of my projects in cybersecurity, ethical hacking, and web development. This portfolio showcases my journey through platforms like Hack The Box and TryHackMe, covering various exploits, vulnerabilities, and privilege escalation techniques.  
+
+##  BoardLight: Web Exploitation and Privilege Escalation  
+
+**Summary:** Exploited a vulnerable CRM system to gain access and escalated privileges through a misconfigured SUID binary.  
+**Tools:** Nmap, LinPEAS, Burp Suite, ffuf  
+**Key Skills:** Reconnaissance, CVE exploitation, privilege escalation, system enumeration  
+[Read Full Project Write-up](https://medium.com/@9t0wl/a-thrilling-ride-through-boardlight-1817eeffe9a0)  
+
 
 #   PermX: My First Steps into Web Exploitation and Privilege Escalation
 
