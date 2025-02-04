@@ -195,4 +195,4 @@ end
 
 ![Octocat](hBt_L6.gif)
 
-![Branching](bugbounty.jpg)
+![Branching](DALL%C2%B7E%202024-08-28%2011.36.40%20bugbounty.jpg)
