@@ -198,4 +198,4 @@ end
 
 ### Large image
 
-![Branching](DALL·E 2024-08-28 11.36.40 bugbounty.jpg)
+![Branching]('DALL·E 2024-08-28 11.36.40 bugbounty.jpg')
