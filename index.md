@@ -1,7 +1,7 @@
 ![Spidertocat](inspectocat.resized.jpg)
 
 # Herry Hernandez's Cybersecurity & Development Portfolio
-[Go to Web Development Section](#web-development-section)
+[BoardLight](#boardlight-web-exploitation-and-privilege-escalation) | [PermX](#permx-my-first-steps-into-web-exploitation-and-privilege-escalation) | [Web Development](#web-development-projects-learning-journey)
 
 Welcome to my portfolio! Here, you'll find detailed write-ups of my projects in cybersecurity, ethical hacking, and web development. This portfolio showcases my journey through platforms like Hack The Box and TryHackMe, covering various exploits, vulnerabilities, and privilege escalation techniques.  
 
