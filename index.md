@@ -23,7 +23,7 @@ Welcome to my portfolio! Here, you'll find detailed write-ups of my projects in 
 [Read Full Project Write-up](https://medium.com/@9t0wl/a-thrilling-ride-through-boardlight-1817eeffe9a0)  
 
 
-#   PermX: My First Steps into Web Exploitation and Privilege Escalation
+## PermX: My First Steps into Web Exploitation and Privilege Escalation
 
 **Introduction**
 
@@ -171,7 +171,7 @@ By exploiting this service, I was able to execute code as root and capture the f
 
 The "Cap" machine provided a valuable lesson in the risks associated with misconfigured web servers and vulnerable services.  I learned how to identify and exploit these weaknesses, and I gained a deeper appreciation for the importance of comprehensive system security.
 
-## Web Development Projects & Learning Journey
+# Web Development Projects & Learning Journey
 
 I have a growing understanding of HTML, CSS, and JavaScript, focusing on both front-end development and responsive design. Through hands-on exercises and projects, I’ve implemented key concepts, such as:
 
